@@ -5,7 +5,7 @@
 - For this context, a software architecture evaluation is an endeavor aiming at the software architecture "fitness" assessment in regard of the purpose the software system was conceived for.
 - The Essence extension available in this repository aims to guide the progression of any software architecture evaluation endeavor, be it stand-alone or part of a major software product engineering.
 
-## Alpha State Cards
+## Alphas state cards
 
-- For practitioners, the Alpha state cards are the most important asset.
+- For practitioners, the Alphas state cards are the most important asset.
 - Alpha state cards can be printed and architecture evaluation stakeholders can use them to assess their current state in the evaluation progression as well as to guide the evaluation effort. 
